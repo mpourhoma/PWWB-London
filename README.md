@@ -11,6 +11,8 @@ We utilize remote-sensing satellite imagery and ground-based sensor data to pred
 
 ```LondonGridPred.ipynb``` is the main code file. This Jupyter notebook contains the raw code and documentation of our preprocessing, training, prediction, and visualization pipeline. 
 
+```LondonPredictions.mp4``` is a 24-frame visualization of hourly PM2.5 in London on January 1, 2021. 
+
 ```sitelist.csv``` is a reference table of the ground-level meteorological and air pollution sensors, their latitude and longitude coordinates, and their corresponding (x,y) coordinates within the 50x50 geographical grid we construct. 
 
 ```Images``` contains various supporting description images used in the Jupyter notebook.
